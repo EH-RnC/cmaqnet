@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+title: "Conditional U-Net for CMAQ PM2.5 Emulation"
+message: "If you use this software, please cite it as below."
+type: software
+authors:
+  - family-names: "Lee"
+    given-names: "Yohan"
+    affiliation: "EH Research & Consulting Co., Ltd."
+  - family-names: "Park"
+    given-names: "Junghyun"
+    affiliation: "EH Research & Consulting Co., Ltd."
+  - family-names: "Kim"
+    given-names: "Jinseok"
+    affiliation: "Konkuk University"
+  - family-names: "Woo"
+    given-names: "Jung-Hun"
+    affiliation: "Seoul National University"
+  - family-names: "Lee"
+    given-names: "Jong-Hyeon"
+    affiliation: "EH Research & Consulting Co., Ltd."
+    email: "j.lee@ehrnc.com"
+repository-code: "https://github.com/[your-username]/cmaq-unet-emulator"
+keywords:
+  - "air quality modeling"
+  - "CMAQ emulation"
+  - "PM2.5 prediction"
+  - "deep learning"
+  - "conditional U-Net"
+  - "environmental modeling"
+license: Apache-2.0
+version: 1.0.0
+date-released: 2024-08-30

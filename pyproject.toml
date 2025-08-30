@@ -1,0 +1,7 @@
+[project]
+name = "cmaqnet-public"
+version = "1.0.0"
+description = "Development of CMAQ surrogate model using conditional U-Net architecture"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
